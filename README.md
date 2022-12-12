@@ -4,7 +4,7 @@
 
 node index.js --action list
 
-https://monosnap.com/file/hSsIDBWO2Nhq3BICrOHhisxSOzHcbo
+https://monosnap.com/file/zuUdqLQ9ICtQWOYoUv3dKHjjBTxwul
 
 # Получаем контакт по id
 
